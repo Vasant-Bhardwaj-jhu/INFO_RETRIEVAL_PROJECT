@@ -8,3 +8,4 @@ pip install chromedriver_binary
 ~~~
 
 # How to run
+just run the program in your code editor (or use ` ./main `)
